@@ -44,7 +44,7 @@
             });
         </script>
         <!-- google map -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuDBSLFlx6G3QMqB-NTFSnxIA0XohQt3E"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=xxxxxxxxxxxxxxxxxxxx"></script>
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <![endif]-->
